@@ -15,7 +15,6 @@
 
 ## Skills ⚒️
 ![](https://img.shields.io/badge/flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/dart-4597ce?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,10 +27,11 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-964B00?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## Technologies & Tools 🔧
-![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## GitHub Stats &#x1f4c8;
