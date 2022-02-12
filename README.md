@@ -4,7 +4,6 @@
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohan_bhautoo)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbhautoo@gmail.com)
-[![gmail](https://img.shields.io/github/followers/rohan-bhautoo?style=for-the-badge&logo=github)](mailto:rohanbhautoo@gmail.com)
 
 > *"Programming isn't about what you know; it's about what you can figure out."*
 
