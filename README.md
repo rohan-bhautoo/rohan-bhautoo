@@ -11,7 +11,7 @@
 
 ```java
 class Rohan = {
-  String pronouns = "he" | "him";
+  String pronouns = "he" || "him";
   String university = "Middlesex University Mauritius";
   String degree = "BSc Computer Science Systems Engineering";
   Sting workExperience = "6 months";
