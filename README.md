@@ -1,6 +1,12 @@
 # Hello, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**I am a full-stack programmer who utilizes both logical and creative part when developing a project. I am based in Mauritius 🇲🇺🌴.** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohan_bhautoo)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbhautoo@gmail.com)
+
+> *"Programming isn't about what you know; it's about what you can figure out."*
+
+**I am a full-stack programmer who utilizes both logical and creative part when developing a project. I am based in Mauritius 🇲🇺🌴.**
 
 ## Technologies & Tools 🔧
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -28,9 +34,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 </p>
-
-## Social 📱
-You can find me on the following social media platforms or send me an email:
-1. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
-2. [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohan_bhautoo)
-3. [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbhautoo@gmail.com)
