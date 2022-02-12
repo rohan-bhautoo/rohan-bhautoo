@@ -31,4 +31,4 @@
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&link=https://linkedin.com/in/rohan-bhautoo)](https://shields.io/)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
