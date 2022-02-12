@@ -9,6 +9,15 @@
 
 **I am a full-stack programmer who utilizes both logical and creative skills when developing a project. I am based in Mauritius 🇲🇺🌴.**
 
+```java
+class Rohan = {
+  String pronouns = "he" | "him";
+  String university = "Middlesex University Mauritius";
+  String degree = "BSc Computer Science Systems Engineering";
+  Sting workExperience = "6 months";
+}
+```
+
 ## Operating System 🗔
 [![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
