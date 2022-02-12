@@ -29,8 +29,7 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Technologies & Tools 🔧
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/visualstudio-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
