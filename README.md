@@ -16,7 +16,7 @@ const rohan = {
     name: "Middlesex University Mauritius",
     degree: {
       name: "BSc Computer Science Systems Engineering",
-      grade: "First Class Honours"
+      grade: "First Class Honours",
     },
   },
   workExperience: [
@@ -25,10 +25,10 @@ const rohan = {
       role: "Associate Consultant",
       workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
       duration: "6 months",
-      isActive: true
+      isActive: true,
     },
   ],
-  currentFocus: "Building applications using flutter with UI/UX design",
+  currentFocus: "Building mobile applications using flutter with UI/UX design",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
