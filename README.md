@@ -7,7 +7,7 @@
 
 > *"Programming isn't about what you know; it's about what you can figure out."*
 
-**I am a full-stack programmer who utilizes both logical and creative skills when developing a project. I am based in Mauritius 🇲🇺🌴.**
+**I am a full-stack programmer 👨‍💻 who utilizes both logical 🧠 and creative 🎨 skills when working on a project. I am based in Mauritius 🇲🇺🌴.**
 
 ```javascript
 const rohan = {
@@ -34,12 +34,12 @@ const rohan = {
 };
 ```
 
-## Operating System 🗔
+## Operating System 💻
 [![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
-## Skills ⚒️
+## Skills 🛠️
 [![](https://img.shields.io/badge/flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
