@@ -9,13 +9,28 @@
 
 **I am a full-stack programmer who utilizes both logical and creative skills when developing a project. I am based in Mauritius 🇲🇺🌴.**
 
-```java
-class Rohan = {
-  String pronouns = "he" || "him";
-  String university = "Middlesex University Mauritius";
-  String degree = "BSc Computer Science Systems Engineering";
-  Sting workExperience = "6 months";
-}
+```javascript
+const rohan = {
+  pronouns: "He" || "Him",
+  university: {
+    name: "Middlesex University Mauritius",
+    degree: {
+      name: "BSc Computer Science Systems Engineering",
+      grade: "First Class Honours"
+    },
+  },
+  workExperience: [
+    {
+      companyName: "Big Bang 360",
+      role: "Associate Consultant",
+      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
+      duration: "6 months",
+      isActive: true
+    },
+  ],
+  currentFocus: "Building applications using flutter with UI/UX design",
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
 ## Operating System 🗔
@@ -41,10 +56,10 @@ class Rohan = {
 [![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## Tools 🔧
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 ## Github Trophies 🏆
 <p align="center">
@@ -62,6 +77,6 @@ class Rohan = {
 
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=css" />
   </a>
 </p>
