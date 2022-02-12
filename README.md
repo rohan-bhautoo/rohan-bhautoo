@@ -12,6 +12,7 @@
 ```javascript
 const rohan = {
   pronouns: "He" || "Him",
+  languages: ["English", "French", "Creole"],
   university: {
     name: "Middlesex University Mauritius",
     degree: {
