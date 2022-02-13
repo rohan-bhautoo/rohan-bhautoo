@@ -64,6 +64,7 @@ const rohan = {
 [![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 [![](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Stack_Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 
 ## Github Trophies 🏆
 <p align="center">
