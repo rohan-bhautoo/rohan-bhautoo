@@ -24,7 +24,7 @@ const rohan = {
     {
       companyName: "Big Bang 360",
       role: "Associate Consultant",
-      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
+      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce", "Spring Boot"],
       duration: "6 months",
       isActive: true,
     },
