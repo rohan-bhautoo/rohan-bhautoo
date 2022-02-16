@@ -40,7 +40,8 @@ const rohan = {
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ## Skills 🛠️
-[![](https://img.shields.io/badge/flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Dart-4597ce?style=for-the-badge&logo=dart&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
