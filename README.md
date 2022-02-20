@@ -97,3 +97,13 @@ const rohan = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&theme=codeSTACKr&hide=css" />
   </a>
 </p>
+
+----
+<p align="center">
+  Thank you for visiting ❤️
+</p>
+<p align="center">
+  <a href="https://github.com/rohan-bhautoo">
+    <img align="center" src="https://profile-counter.glitch.me/rohan-bhautoo/count.svg"/>
+  </a>
+</p>
