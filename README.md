@@ -88,12 +88,12 @@ const rohan = {
 ## GitHub Stats &#x1f4c8;
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=codeSTACKr" alt="Rohan's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=css" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&theme=codeSTACKr&hide=css" />
   </a>
 </p>
