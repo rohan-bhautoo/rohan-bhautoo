@@ -81,7 +81,7 @@ const rohan = {
 ## Github Streaks 🔥
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Rohan's GitHub Streaks" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="Rohan's GitHub Streaks" />
   </a>
 </p>
 
