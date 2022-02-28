@@ -26,7 +26,7 @@ const rohan = {
       role: "Associate Consultant",
       workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce", "Spring Boot"],
       duration: "7 months",
-      isActive: true,
+      isActive: false,
     },
   ],
   currentFocus: "Building mobile applications using flutter with UI/UX design",
