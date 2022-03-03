@@ -94,7 +94,7 @@ const rohan = {
 
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&theme=codeSTACKr&hide=css" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhautoo&layout=compact&theme=codeSTACKr&langs_count=10&hide=css,processing" />
   </a>
 </p>
 
