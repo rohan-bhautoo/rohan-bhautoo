@@ -30,6 +30,13 @@ const rohan = {
       duration: "7 months",
       isActive: false,
     },
+    {
+      companyName: "Pharmagest HDM Ltd",
+      role: "Trainee Software Engineer",
+      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce", "Spring Boot"],
+      duration: "1 month",
+      isActive: true,
+    },
   ],
   currentFocus: "Building mobile applications using flutter with UI/UX design",
   funFact: "There are two ways to write error-free programs; only the third one works"
