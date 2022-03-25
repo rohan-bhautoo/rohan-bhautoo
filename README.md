@@ -33,7 +33,7 @@ const rohan = {
     {
       companyName: "Pharmagest HDM Ltd",
       role: "Trainee Software Engineer",
-      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce", "Spring Boot"],
+      workedWith: [""],
       duration: "1 month",
       isActive: true,
     },
