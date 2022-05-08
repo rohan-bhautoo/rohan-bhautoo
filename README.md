@@ -33,7 +33,7 @@ const rohan = {
     {
       companyName: "Pharmagest HDM Ltd",
       role: "Trainee Software Engineer",
-      workedWith: [""],
+      workedWith: ["Spring Boot", "Angular", ""],
       duration: "1 month",
       isActive: true,
     },
