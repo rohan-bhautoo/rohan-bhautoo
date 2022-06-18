@@ -32,8 +32,8 @@ const rohan = {
     },
     {
       companyName: "Pharmagest HDM Ltd",
-      role: "Trainee Software Engineer",
-      workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "MySQL", "PostgreSQL"],
+      role: "Full-Stack Software Engineer Trainee",
+      workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "MySQL", "PostgreSQL", "Oracle"],
       duration: "3 months",
       isActive: true,
     },
