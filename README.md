@@ -34,7 +34,7 @@ const rohan = {
       companyName: "Pharmagest HDM Ltd",
       role: "Full-Stack Associate Software Engineer",
       workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "MySQL", "PostgreSQL", "Oracle"],
-      duration: "4 months",
+      duration: "5 months",
       isActive: true,
     },
   ],
