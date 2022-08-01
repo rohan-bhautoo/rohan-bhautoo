@@ -1,7 +1,7 @@
 # Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
 
-[![Youtube](https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.fiverr.com/rohanbhautoo?up_rollout=true)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/rohanbhautoo?up_rollout=true)
+[![Youtube](https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=Youtube&logoColor=white)]([https://www.fiverr.com/rohanbhautoo?up_rollout=true](https://www.youtube.com/channel/UCxwJj4cnKz2YfUQdjkLEMjA))
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/rohanbhautoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbhautoo@gmail.com)
