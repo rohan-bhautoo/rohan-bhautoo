@@ -26,14 +26,16 @@ const rohan = {
     {
       companyName: "Big Bang 360",
       role: "Associate Consultant",
-      workedWith: ["Oracle NetSuite", "Celigo", "MavenLink", "Salesforce", "Java Spring Boot"],
+      workedWith: ["JavaScript", "Java Spring Boot"],
+      toolsUsed: ["Visual Studio Code", "Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
       duration: "7 months",
       isActive: false,
     },
     {
       companyName: "Pharmagest HDM Ltd",
       role: "Full-Stack Associate Software Engineer",
-      workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "MySQL", "PostgreSQL", "Oracle"],
+      workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
+      toolsUsed: ["IntelliJ", "Docker", "Jenkins", "Jira", "Bitbucket"];
       duration: ((new Date().getMonth() + 1) - (new Date('2022-04-01').getMonth() + 1)) + 1,
       isActive: true,
     },
