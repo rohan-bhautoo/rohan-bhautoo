@@ -1,5 +1,6 @@
 # Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
 
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11040534/rohan)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/rohanbhautoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
