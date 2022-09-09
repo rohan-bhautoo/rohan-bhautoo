@@ -38,7 +38,7 @@ const rohan = {
       isActive: true,
     },
   ],
-  currentFocus: "Building mobile applications using flutter with UI/UX design",
+  currentFocus: "Building mobile applications using flutter with good UI/UX design",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
