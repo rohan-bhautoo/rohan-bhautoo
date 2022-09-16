@@ -35,7 +35,7 @@ const rohan = {
       companyName: "Pharmagest HDM Ltd",
       role: "Full-Stack Associate Software Engineer",
       workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
-      toolsUsed: ["IntelliJ", "Docker", "Jenkins", "Jira", "Bitbucket"];
+      toolsUsed: ["IntelliJ", "Docker", "Jenkins", "Jira", "Bitbucket"],
       duration: ((new Date().getMonth() + 1) - (new Date('2022-04-01').getMonth() + 1)) + 1,
       isActive: true,
     },
