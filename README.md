@@ -109,13 +109,13 @@ const rohan = {
 ## GitHub Stats &#x1f4c8;
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=codeSTACKr" alt="Rohan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=algolia" alt="Rohan's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-bhautoo&layout=compact&theme=codeSTACKr&langs_count=10&hide=css,processing" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-bhautoo&layout=compact&theme=algolia&langs_count=10&hide=css,processing" />
   </a>
 </p>
 
