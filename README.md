@@ -36,7 +36,7 @@ const rohan = {
       role: "Full-Stack Associate Software Engineer",
       workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Twig", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
       toolsUsed: ["IntelliJ", "Docker", "Dbeaver", "Jenkins", "Jira", "Bitbucket", "Postman"],
-      duration: ((new Date().getMonth() + 1) - (new Date('2022-04-01').getMonth() + 1)) + 1,
+      duration: (new Date().getFullYear() > new Date('2022-04-01').getFullYear()) ? (12 - d2.getMonth()) + d.getMonth() + 1 : d.getMonth() - d2.getMonth(),
       isActive: true,
     },
   ],
