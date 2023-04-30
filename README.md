@@ -45,7 +45,7 @@ const rohan = {
       role: "Full-Stack Software Developer",
       workedWith: ["React Native", "React JS", "Node JS", "MySQL", "Oracle"],
       toolsUsed: ["GitHub", "Google Docs", "AWS", "Amazon S3", "Jira"],
-      duration: 2023.05 - Present,
+      duration: "2023.05 - Present",
       isActive: true,
     },
   ],
