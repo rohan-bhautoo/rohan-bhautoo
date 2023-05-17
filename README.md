@@ -43,8 +43,8 @@ const rohan = {
     {
       companyName: "Swan General Ltd",
       role: "Full-Stack Software Developer",
-      workedWith: ["React Native", "React JS", "Node JS", "MySQL", "Oracle"],
-      toolsUsed: ["GitHub", "Google Docs", "AWS", "Amazon S3", "Jira"],
+      workedWith: ["React Native", "Node JS", "C#.NET" "MySQL", "Oracle"],
+      toolsUsed: ["Visual Studio Code", "GitHub", "Google Docs", "AWS", "Amazon S3", "Jira"],
       duration: "2023.05 - Present",
       isActive: true,
     },
