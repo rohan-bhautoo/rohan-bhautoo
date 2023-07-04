@@ -43,7 +43,7 @@ const rohan = {
     {
       companyName: "Swan General Ltd",
       role: "Full-Stack Software Developer",
-      workedWith: ["React Native", "Node JS", "C#", "VB", ".NET", "SQL Server", "Oracle"],
+      workedWith: ["React Native", "Node JS", "C#", "VB", ".NET Framework", "SQL Server"],
       toolsUsed: ["Visual Studio", "Jira", "Bitbucket", "Confluence", "Swagger", "Postman"],
       duration: "2023.05 - Present",
       isActive: true,
@@ -73,10 +73,13 @@ const rohan = {
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=black)](https://jquery.com/)
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
+[![](https://img.shields.io/badge/React_Native-61dbfb?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/SQL_Server-FFB900?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -87,6 +90,7 @@ const rohan = {
 [![](https://img.shields.io/badge/Jenkins-355564?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 [![](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
