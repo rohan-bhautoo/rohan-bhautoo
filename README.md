@@ -51,39 +51,41 @@ const rohan = {
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-## Operating System 💻
-[![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
-[![](https://img.shields.io/badge/CentOS-951C7A?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-
-## Skills 🛠️
+## Programming Languages 👨‍💻
 [![](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Dart-4597ce?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![](https://img.shields.io/badge/C_Sharp-684D95?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=black)](https://jquery.com/)
-[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-[![](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
+## Frameworks 🛠️
+[![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![](https://img.shields.io/badge/.NET_Framework-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=black)](https://jquery.com/)
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+## Databases 🗃️
 [![](https://img.shields.io/badge/SQL_Server-FFB900?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+
+## Operating System 💻
+[![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
+[![](https://img.shields.io/badge/CentOS-951C7A?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ## Tools 🔧
 [![](https://img.shields.io/badge/Jenkins-355564?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -102,7 +104,6 @@ const rohan = {
 [![](https://img.shields.io/badge/Stack_Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 [![](https://img.shields.io/badge/Arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![](https://img.shields.io/badge/IBM_Watson-006699?style=for-the-badge&logo=ibmwatson&logoColor=white)](https://www.ibm.com/watson)
-[![](https://img.shields.io/badge/Salesforce-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com)
 
 ## Github Trophies 🏆
 <p align="center">
