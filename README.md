@@ -75,7 +75,7 @@ const rohan = {
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
-[![](https://img.shields.io/badge/React_Native-61dbfb?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/SQL_Server-FFB900?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://nodejs.org/en/)
