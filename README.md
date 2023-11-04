@@ -35,7 +35,7 @@ const rohan = {
       role: "Full-Stack Associate Software Engineer",
       workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Twig", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
       toolsUsed: ["IntelliJ", "Docker", "Dbeaver", "Jenkins", "Jira", "Bitbucket", "Confluence", "Postman"],
-      duration: "1 year 2 months",
+      duration: "1 year 3 months",
       isActive: false,
     },
     {
