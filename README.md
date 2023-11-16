@@ -81,7 +81,7 @@ const rohan = {
 [![](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 
-## Operating System 💻
+## Operating Systems 💻
 [![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
 [![](https://img.shields.io/badge/CentOS-951C7A?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
