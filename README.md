@@ -41,7 +41,7 @@ const rohan = {
     {
       companyName: "Swan General Ltd",
       role: "Full-Stack Software Developer",
-      workedWith: ["C#", ".NET Framework", "ASP.NET", "NodeJS", "TypeScript", "SQL Server", "T-SQL"],
+      workedWith: ["C#", ".NET Framework", "ASP.NET", "NodeJS", "Express", "TypeScript", "SQL Server", "T-SQL"],
       toolsUsed: ["Visual Studio", "Jira", "Azure DevOps Server", "Bitbucket", "Confluence", "Swagger", "Postman"],
       duration: "2023.05 - Present",
       isActive: true,
@@ -69,6 +69,7 @@ const rohan = {
 [![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![](https://img.shields.io/badge/.NET_Framework-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=black)](https://jquery.com/)
