@@ -47,7 +47,7 @@ const rohan = {
       isActive: true,
     },
   ],
-  currentFocus: "Building mobile applications using flutter with good UI/UX design",
+  currentFocus: "Building full stack web applications using Next.js",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
