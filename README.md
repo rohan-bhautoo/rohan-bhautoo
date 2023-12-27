@@ -18,8 +18,8 @@ const rohan = {
     name: "Middlesex University Mauritius",
     degree: {
       name: "BSc Computer Science Systems Engineering",
-      grade: "First Class Honours",
-    },
+      grade: "First Class Honours"
+    }
   },
   workExperience: [
     {
@@ -28,24 +28,24 @@ const rohan = {
       workedWith: ["JavaScript", "Java Spring Boot"],
       toolsUsed: ["Visual Studio Code", "Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
       duration: "7 months",
-      isActive: false,
-    },
+      isActive: false
+    }
     {
       companyName: "Pharmagest HDM Ltd",
       role: "Full-Stack Associate Software Engineer",
       workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Twig", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
       toolsUsed: ["IntelliJ", "Docker", "Dbeaver", "Jenkins", "Jira", "Bitbucket", "Confluence", "Postman"],
       duration: "1 year 3 months",
-      isActive: false,
-    },
+      isActive: false
+    }
     {
       companyName: "Swan General Ltd",
       role: "Full-Stack Software Developer",
       workedWith: ["C#", ".NET Framework", "ASP.NET", "NodeJS", "Express", "React JS", "SQL Server", "T-SQL"],
       toolsUsed: ["Visual Studio", "Jira", "Azure DevOps Server", "Bitbucket", "Confluence", "Swagger", "Postman"],
       duration: "2023.05 - Present",
-      isActive: true,
-    },
+      isActive: true
+    }
   ],
   currentFocus: "Building full stack web applications using Next.js",
   funFact: "There are two ways to write error-free programs; only the third one works"
