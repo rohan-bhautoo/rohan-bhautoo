@@ -43,8 +43,8 @@ const rohan = {
       role: "Full-Stack Software Developer",
       workedWith: ["C#", ".NET Framework", "ASP.NET", "NodeJS", "Express", "React JS", "SQL Server", "T-SQL"],
       toolsUsed: ["Visual Studio", "Jira", "Azure DevOps Server", "Bitbucket", "Swagger", "Postman"],
-      duration: "2023.05 - 2024.03",
-      isActive: false
+      duration: "2023.05 - present",
+      isActive: true
     }
   ],
   currentFocus: "Building 3D games using Unreal Engine 5",
