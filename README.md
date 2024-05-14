@@ -1,6 +1,6 @@
 # Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-EAB03C?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohan_bhautoo/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rohan_bhautoo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
 [![Steam](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanbhautoo)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11040534/rohan)
