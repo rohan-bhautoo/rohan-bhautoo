@@ -1,6 +1,6 @@
 # Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
 
-[![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-000000?style=for-the-badge&logo=buymeacoffee&logoColor=FFFF00)](https://buymeacoffee.com/rohanbhautoo)
+[![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rohan_bhautoo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
 [![Steam](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanbhautoo)
@@ -23,32 +23,7 @@ const rohan = {
       grade: "First Class Honours"
     }
   },
-  workExperience: [
-    {
-      companyName: "Big Bang 360",
-      role: "Associate Consultant",
-      workedWith: ["JavaScript", "Java Spring Boot"],
-      toolsUsed: ["Visual Studio Code", "Oracle NetSuite", "Celigo", "MavenLink", "Salesforce"],
-      duration: "7 months",
-      isActive: false
-    }
-    {
-      companyName: "Pharmagest HDM Ltd",
-      role: "Full-Stack Associate Software Engineer",
-      workedWith: ["Java Spring Boot", "Angular", "Php Symfony", "Twig", "Doctrine", "JQuery", "MySQL", "PostgreSQL", "Oracle"],
-      toolsUsed: ["IntelliJ", "Docker", "Dbeaver", "Jenkins", "Jira", "Bitbucket", "Confluence", "Postman"],
-      duration: "1 year 3 months",
-      isActive: false
-    }
-    {
-      companyName: "Swan General Ltd",
-      role: "Full-Stack Software Developer",
-      workedWith: ["C#", ".NET Framework", "ASP.NET", "NodeJS", "Express", "React JS", "SQL Server", "T-SQL"],
-      toolsUsed: ["Visual Studio", "Jira", "Azure DevOps Server", "Bitbucket", "Swagger", "Postman"],
-      duration: "2023.05 - present",
-      isActive: true
-    }
-  ],
+  workExperience: "3 years"
   currentFocus: "Building 3D games using Unreal Engine 5",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
