@@ -23,7 +23,7 @@ const rohan = {
       grade: "First Class Honours"
     }
   },
-  workExperience: "3 years"
+  workExperience: "3 years",
   currentFocus: "Building 3D games using Unreal Engine 5",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
