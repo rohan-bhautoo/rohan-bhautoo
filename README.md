@@ -1,124 +1,50 @@
-# Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
+![Banner](https://github.com/rohan-bhautoo/rohan-bhautoo/assets/47154593/3eba57a0-cca0-4b2f-8112-a8ce950cee3a)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rohan_bhautoo/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanbhautoo)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11040534/rohan)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199009185166/)
+[![PlayStation Network](https://img.shields.io/badge/PlayStation_Network-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://psnprofiles.com/x_XRohanX_x)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
 
-> *"Programming isn't about what you know; it's about what you can figure out."*
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=I+am+a+full-stack+programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Utilizes+both+logical+%F0%9F%A7%A0++and+creative+%F0%9F%8E%A8+skills+when+working+on+a+project.+;I+am+based+in+Mauritius+%F0%9F%87%B2%F0%9F%87%BA%F0%9F%8C%B4.">
-</p>
+<div>
+  <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+  <p>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘙𝘰𝘩𝘢𝘯, 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘭𝘰𝘷𝘦 𝘧𝘰𝘳 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘪𝘮𝘮𝘦𝘳𝘴𝘪𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘨𝘢𝘮𝘦𝘴 𝘶𝘴𝘪𝘯𝘨 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦 𝘵𝘰 𝘣𝘳𝘪𝘯𝘨 𝘪𝘥𝘦𝘢𝘴 𝘵𝘰 𝘭𝘪𝘧𝘦 (𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢 𝘭𝘰𝘵 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯). 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘱𝘭𝘢𝘺 𝘢𝘯𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘢 𝘸𝘪𝘥𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘵𝘪𝘵𝘭𝘦𝘴 𝘸𝘩𝘪𝘤𝘩 𝘤𝘢𝘯 𝘣𝘳𝘪𝘯𝘨 𝘪𝘯𝘴𝘱𝘪𝘳𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘥𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘯𝘦𝘸 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘈𝘵 𝘵𝘩𝘦 𝘌𝘖𝘋, 𝘸𝘩𝘢𝘵 𝘮𝘢𝘵𝘵𝘦𝘳𝘴 𝘪𝘴 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘧𝘶𝘯 𝘵𝘰 𝘱𝘭𝘢𝘺!</p>
 
-```javascript
-const rohan = {
-  pronouns: "He" || "Him",
-  languages: ["English", "French", "Creole"],
-  university: {
-    name: "Middlesex University Mauritius",
-    degree: {
-      name: "BSc Computer Science Systems Engineering",
-      grade: "First Class Honours"
-    }
-  },
-  workExperience: "3 years",
-  currentFocus: "Building 3D games using Unreal Engine 5",
-  funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-## Programming Languages 👨‍💻
-[![](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![](https://img.shields.io/badge/Dart-4597ce?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/C_Sharp-684D95?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+  <p>𝘞𝘢𝘯𝘵 𝘵𝘰 𝘨𝘦𝘵 𝘪𝘯 𝘵𝘰𝘶𝘤𝘩? 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦 𝘰𝘯 𝘋𝘪𝘴𝘤𝘰𝘳𝘥.</p>
 
-## Frameworks 🛠️
-[![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
-[![](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![](https://img.shields.io/badge/.NET_Framework-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://reactnative.dev/)
-[![](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=black)](https://jquery.com/)
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/Tailwind_CSS-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  <p>𝘊𝘩𝘦𝘤𝘬 𝘰𝘶𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘣𝘦𝘭𝘰𝘸 𝘢𝘯𝘥 𝘴𝘵𝘢𝘺 𝘵𝘶𝘯𝘦𝘥 𝘧𝘰𝘳 𝘮𝘰𝘳𝘦 𝘶𝘱𝘥𝘢𝘵𝘦𝘴!</p>
+</div>
 
-## Databases 🗃️
-[![](https://img.shields.io/badge/SQL_Server-FFB900?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://nodejs.org/en/)
-[![](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+<div>
+  <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
+  <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/f7e96b5c-b5d5-4980-b78b-a247fddb3066" width="100%">
+</div>
 
-## Operating Systems 💻
-[![](https://img.shields.io/badge/Fedora-3c6eb4?style=for-the-badge&logo=fedora&logoColor=black)](https://getfedora.org/)
-[![](https://img.shields.io/badge/CentOS-951C7A?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+<div>
+  <h2 align="center">𝓢𝓴𝓲𝓵𝓵𝓼</h2>
+  <p>
+  <div align="center">
+    <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/3595cde5-9ef4-4481-86eb-1fc6510f6a0b" align="right" width="50%">
+  </div>
+  <div>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+      <br><br>
+      𝘐'𝘮 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘥 𝘪𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘳𝘦𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵𝘴, 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘉𝘭𝘶𝘦𝘱𝘳𝘪𝘯𝘵𝘴 𝘧𝘰𝘳 𝘷𝘪𝘴𝘶𝘢𝘭 𝘴𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨 𝘵𝘰 𝘦𝘯𝘩𝘢𝘯𝘤𝘦 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘮𝘦𝘤𝘩𝘢𝘯𝘪𝘤𝘴. 𝘐'𝘮 𝘢𝘭𝘴𝘰 𝘵𝘳𝘺𝘪𝘯𝘨 𝘰𝘶𝘵 𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳 𝘮𝘰𝘥𝘦𝘭𝘪𝘯𝘨 𝘢𝘯𝘥 𝘳𝘪𝘨𝘨𝘪𝘯𝘨.
+    </p>
+  </div>
+  <br clear="right"/>
+</div>
 
-## Tools 🔧
-[![](https://img.shields.io/badge/Jenkins-355564?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
-[![](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/Azure_DevOps-008ad7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
-[![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.atlassian.com/software/bitbucket)
-[![](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-[![](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/en-US/unreal-engine-5)
-[![](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![](https://img.shields.io/badge/Stack_Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[![](https://img.shields.io/badge/Arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/IBM_Watson-006699?style=for-the-badge&logo=ibmwatson&logoColor=white)](https://www.ibm.com/watson)
+<div>
+  <h2 align="center">𝓛𝓲𝓼𝓽 𝓸𝓯 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓖𝓪𝓶𝓮𝓼</h2>
 
-## Github Trophies 🏆
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=rohan-bhautoo&theme=darkhub&margin-w=15&no-bg=true&no-frame=true" alt="Rohan's GitHub Trophies" />
-  </a>
-</p>
-
-## Github Streaks 🔥
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="Rohan's GitHub Streaks" />
-  </a>
-</p>
-
-## GitHub Stats &#x1f4c8;
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=algolia" alt="Rohan's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-bhautoo&layout=compact&theme=algolia&langs_count=10&hide=css,processing" />
-  </a>
-</p>
-
-----
-<p align="center">
-  Thank you for visiting ❤️
-</p>
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://profile-counter.glitch.me/rohan-bhautoo/count.svg"/>
-  </a>
-</p>
+  | 𝙏𝙞𝙩𝙡𝙚                                                                         | 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣                                                                                                                                                                                                                            |                                                                                                                      |
+  |-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+  | [𝘊𝘢𝘴𝘵𝘭𝘦 𝘌𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵](https://github.com/rohan-bhautoo/Castle-UE5)             | 𝘛𝘩𝘦 𝘨𝘢𝘮𝘦 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘦𝘴 𝘢 𝘣𝘦𝘢𝘶𝘵𝘪𝘧𝘶𝘭 𝘭𝘢𝘯𝘥𝘴𝘤𝘢𝘱𝘦 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘢 𝘧𝘶𝘭𝘭𝘺 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘢𝘣𝘭𝘦 𝘤𝘢𝘴𝘵𝘭𝘦. 𝘐𝘵 𝘸𝘢𝘴 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘵𝘰 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘦 𝘰𝘯 𝘵𝘩𝘦 𝘭𝘢𝘯𝘥𝘴𝘤𝘢𝘱𝘦 𝘢𝘯𝘥 𝘧𝘰𝘭𝘪𝘢𝘨𝘦 𝘮𝘰𝘥𝘦 𝘰𝘧 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦.                                                                         | ![image](https://github.com/rohan-bhautoo/Castle-UE5/assets/47154593/4ebc115f-a60c-409f-ba6f-c23f5ee2faf9)           |
+  | [𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘚𝘩𝘰𝘰𝘵𝘦𝘳](https://github.com/rohan-bhautoo/First-Person-Shooter) | 𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘚𝘩𝘰𝘰𝘵𝘦𝘳 𝘪𝘴 𝘢 𝘴𝘪𝘮𝘱𝘭𝘦 𝘨𝘢𝘮𝘦 𝘮𝘢𝘥𝘦 𝘪𝘯 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦 𝘶𝘴𝘪𝘯𝘨 𝘤𝘰𝘯𝘵𝘦𝘯𝘵𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘢𝘤𝘬 𝘢𝘯𝘥 𝘧𝘳𝘰𝘮 𝘤𝘶𝘴𝘵𝘰𝘮 𝘤𝘰𝘯𝘵𝘦𝘯𝘵𝘴. 𝘛𝘩𝘦 𝘨𝘰𝘢𝘭 𝘪𝘴 𝘵𝘰 𝘥𝘦𝘴𝘵𝘳𝘰𝘺 𝘢𝘭𝘭 𝘵𝘢𝘳𝘨𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘪𝘯 𝘵𝘩𝘦 𝘵𝘪𝘮𝘦 𝘭𝘪𝘮𝘪𝘵. 𝘖𝘵𝘩𝘦𝘳𝘸𝘪𝘴𝘦 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘭𝘰𝘴𝘵.          | ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9) |
+  | [𝘚𝘵𝘢𝘤𝘬𝘉𝘰𝘵](https://github.com/rohan-bhautoo/StackBot)                         | 𝘚𝘵𝘢𝘤𝘬 𝘉𝘰𝘵 𝘪𝘴 𝘢 𝘴𝘮𝘢𝘭𝘭 𝘦𝘯𝘨𝘢𝘨𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘺𝘯𝘢𝘮𝘪𝘤 𝘨𝘢𝘮𝘦 𝘸𝘩𝘪𝘤𝘩 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘦𝘴 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘤𝘰𝘮𝘱𝘰𝘯𝘦𝘯𝘵𝘴, 𝘈𝘐 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘦𝘳, 𝘮𝘦𝘴𝘩 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘦𝘧𝘧𝘦𝘤𝘵𝘴. 𝘛𝘩𝘦 𝘨𝘰𝘢𝘭 𝘰𝘧 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘵𝘰 𝘴𝘱𝘢𝘸𝘯 𝘰𝘳𝘣𝘴 𝘸𝘩𝘪𝘤𝘩 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘈𝘐 𝘉𝘰𝘵 𝘪𝘯 𝘰𝘳𝘥𝘦𝘳 𝘵𝘰 𝘤𝘰𝘯𝘵𝘳𝘰𝘭 𝘪𝘵. | ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239)             |
+  | [𝘉𝘭𝘰𝘤𝘬 𝘎𝘢𝘮𝘦](https://github.com/rohan-bhautoo/Block-Game)                     |                                                                                                                                                                                                                                        |                                                                                                                      |
+</div>
