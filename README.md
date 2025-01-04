@@ -1,7 +1,7 @@
 ![Banner](https://github.com/rohan-bhautoo/rohan-bhautoo/assets/47154593/3eba57a0-cca0-4b2f-8112-a8ce950cee3a)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199009185166/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/x_xrohanx_x/)
 [![PlayStation Network](https://img.shields.io/badge/PlayStation_Network-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://profile.playstation.com/x_XRohanX_x)
 
 <div>
