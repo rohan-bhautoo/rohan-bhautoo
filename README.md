@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="images/hero.svg" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
+<img src="images/hero.svg?v=2" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
 
 <a href="https://linkedin.com/in/rohan-bhautoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://medium.com/@rohanbhautoo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
