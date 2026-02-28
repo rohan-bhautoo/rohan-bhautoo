@@ -39,8 +39,11 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
-<h2 align="center">Featured Work</h2>
-<p align="center"><sub>A selection of projects I've designed and built.</sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=Featured%20Work&height=60&fontSize=30&fontAlignY=65" />
+  <br/>
+  <sub>A selection of projects I've designed and built.</sub>
+</p>
 
 <br/>
 
@@ -204,7 +207,9 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=Tech%20Stack&height=60&fontSize=30&fontAlignY=65" />
+</p>
 
 <br/>
 
@@ -242,7 +247,9 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
-<h2 align="center">GitHub Activity</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=GitHub%20Activity&height=60&fontSize=30&fontAlignY=65" />
+</p>
 
 <br/>
 
