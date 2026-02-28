@@ -19,17 +19,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=I+design+%26+build+digital+experiences;Websites+%C2%B7+Landing+Pages+%C2%B7+Web+Apps+%C2%B7+Mobile+Apps" alt="Typing SVG" />
-</a>
-
-<br/>
-
-**Rohan Bhautoo** &middot; Developer & Creator &middot; Mauritius
-
-I build polished web applications, landing pages, and digital products with modern frameworks.
-
-<br/>
+<img src="images/hero.svg" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
 
 <a href="https://linkedin.com/in/rohan-bhautoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://medium.com/@rohanbhautoo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
