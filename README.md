@@ -1,6 +1,6 @@
 <!--
   ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║  ROHAN BHAUTOO — GITHUB PROFILE README                                  ║
+  ║  ROHAN BHAUTOO - GITHUB PROFILE README                                  ║
   ╠═══════════════════════════════════════════════════════════════════════════╣
   ║                                                                         ║
   ║  SETUP:                                                                 ║
@@ -39,10 +39,7 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
----
-
 <h2 align="center">Featured Work</h2>
-
 <p align="center"><sub>A selection of projects I've designed and built.</sub></p>
 
 <br/>
@@ -207,8 +204,6 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
----
-
 <h2 align="center">Tech Stack</h2>
 
 <br/>
@@ -247,19 +242,17 @@ I build polished web applications, landing pages, and digital products with mode
 
 <br/>
 
----
-
 <h2 align="center">GitHub Activity</h2>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=tokyonight&hide_border=true"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=default&hide_border=true" width="49%" alt="GitHub Streak"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&hide_border=true&count_private=true&theme=github_dark"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&hide_border=true&count_private=true&theme=default" width="49%" alt="GitHub Stats"/>
   </picture>
 </div>
@@ -268,7 +261,7 @@ I build polished web applications, landing pages, and digital products with mode
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rohan-bhautoo&theme=github-compact&hide_border=true&area=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rohan-bhautoo&theme=tokyo-night&hide_border=true&area=true"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-bhautoo&theme=minimal&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
   </picture>
 </div>
