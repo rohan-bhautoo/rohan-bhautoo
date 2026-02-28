@@ -15,7 +15,7 @@
   ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=Featured%20Work&height=60&fontSize=30&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Featured%20Work&height=60&fontSize=30&fontAlignY=65" />
   <br/>
   <sub>A selection of projects I've designed and built.</sub>
 </p>
@@ -198,7 +198,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=Tech%20Stack&height=60&fontSize=30&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Tech%20Stack&height=60&fontSize=30&fontAlignY=65" />
 </p>
 
 <br/>
@@ -238,7 +238,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=GitHub%20Activity&height=60&fontSize=30&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=GitHub%20Activity&height=60&fontSize=30&fontAlignY=65" />
 </p>
 
 <br/>
@@ -265,4 +265,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
