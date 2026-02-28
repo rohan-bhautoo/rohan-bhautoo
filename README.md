@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="images/hero.svg?v=2" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
+<img src="svg/hero.svg?v=2" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
 
 <a href="https://linkedin.com/in/rohan-bhautoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://medium.com/@rohanbhautoo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
@@ -27,10 +27,10 @@
 
 </div>
 
-<br/>
+<p align="center"><img src="svg/divider.svg" width="100%"/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Featured%20Work&height=60&fontSize=30&fontAlignY=65" />
+  <img src="svg/section-featured.svg" width="100%"/>
   <br/>
   <sub>A selection of projects I've designed and built.</sub>
 </p>
@@ -195,10 +195,10 @@
   <a href="https://github.com/rohan-bhautoo?tab=repositories"><sub>See all projects &rarr;</sub></a>
 </p>
 
-<br/>
+<p align="center"><img src="svg/divider.svg" width="100%"/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Tech%20Stack&height=60&fontSize=30&fontAlignY=65" />
+  <img src="svg/section-tech.svg" width="100%"/>
 </p>
 
 <br/>
@@ -235,10 +235,10 @@
 
 </div>
 
-<br/>
+<p align="center"><img src="svg/divider.svg" width="100%"/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=GitHub%20Activity&height=60&fontSize=30&fontAlignY=65" />
+  <img src="svg/section-activity.svg" width="100%"/>
 </p>
 
 <br/>
