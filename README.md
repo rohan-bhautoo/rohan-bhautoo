@@ -1,80 +1,64 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║  ROHAN BHAUTOO - GITHUB PROFILE README                                  ║
-  ╠═══════════════════════════════════════════════════════════════════════════╣
-  ║                                                                         ║
-  ║  SETUP:                                                                 ║
-  ║  1. Copy this file to rohan-bhautoo/rohan-bhautoo repo as README.md     ║
-  ║  2. Create an 'images/' folder in that repo                             ║
-  ║  3. Add screenshots for templatr & Virtual Boutique (see TODO comments) ║
-  ║  4. Replace YOUR_DEMO_URL placeholders with your actual live URLs       ║
-  ║                                                                         ║
-  ║  SCREENSHOTS: Use 1280×720 (16:9) for consistency across all cards.     ║
-  ║  Take a browser screenshot at that resolution for the best results.     ║
-  ║                                                                         ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
--->
+![Banner](https://github.com/user-attachments/assets/8c167640-e12e-4198-adb4-ffbb752d324b)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=&fontSize=0" width="100%"/>
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/x_xrohanx_x/)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rohan-bhautoo.itch.io/)
 
-<div align="center">
+<div>
+  <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+  <p>Hi, I'm Rohan. I build games in Unreal Engine 5 as a solo developer, working in Blueprint and C++. The only thing that matters to me at the end of the day is that the game is fun to play.</p>
 
-<img src="svg/hero.svg?v=2" width="100%" alt="Rohan Bhautoo — Developer & Creator"/>
-
-<a href="https://linkedin.com/in/rohan-bhautoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://medium.com/@rohanbhautoo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
-<a href="https://steamcommunity.com/id/x_xrohanx_x/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-
+  <p>I play a wide range of titles, and a lot of what I learn about pacing, feel and level design comes from taking them apart. Some of them are below.</p>
 </div>
 
-<p align="center"><img src="svg/divider.svg" width="100%"/></p>
+<div>
+  <h2 align="center">𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰</h2>
+  <p>A top-down twin-stick shooter set in a dark cyberpunk future. Solo project in Unreal Engine 5, Blueprint-first with C++ where it earns its place. Still early; more here once there is something worth showing.</p>
+</div>
 
-<p align="center">
-  <img src="svg/section-featured.svg" width="100%"/>
-  <br/>
-  <sub>A selection of projects I've designed and built.</sub>
-</p>
+<div>
+  <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
+  <img src="https://github.com/user-attachments/assets/74343f62-0b99-46ed-bb32-d5fe75637f2d" width="100%" alt="Clips from my favourite games">
+</div>
 
-<br/>
+<div>
+  <h2 align="center">𝓢𝓴𝓲𝓵𝓵𝓼</h2>
+  <p>
+  <div align="center">
+    <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/3595cde5-9ef4-4481-86eb-1fc6510f6a0b" align="right" width="50%" alt="Unreal Engine 5 gameplay clip">
+  </div>
+  <div>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+      <img src="https://img.shields.io/badge/blueprints-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints"/>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <br><br>
+      Gameplay programming in Unreal Engine 5: Blueprint for the bulk of a game's logic, C++ where performance or structure calls for it. From the projects below: landscape and foliage, AI controllers, Chaos destruction, Niagara and MetaSounds.
+    </p>
+  </div>
+  <br clear="right"/>
+</div>
+
+<div>
+  <h2 align="center">𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</h2>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/templatr">templatr</a></h3>
+      <h3 align="center"><a href="https://github.com/rohan-bhautoo/Castle-UE5">Castle Environment</a></h3>
       <p align="center">
-        <a href="https://github.com/rohan-bhautoo/templatr">
-          <img src="images/Templatr.png" width="100%" alt="templatr"/>
-        </a>
+        <a href="https://github.com/rohan-bhautoo/Castle-UE5"><img src="https://github.com/rohan-bhautoo/Castle-UE5/assets/47154593/4ebc115f-a60c-409f-ba6f-c23f5ee2faf9" width="100%" alt="Castle Environment"/></a>
       </p>
-      <p align="center">
-        Full-stack marketplace for premium web templates. User auth, Paddle payments, admin dashboard, email notifications, and i18n across 4 languages.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
+      <p align="center">A landscape scene built to practise Unreal Engine 5's landscape and foliage modes, centred on a modular castle that can be rearranged into different layouts.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/gta-vi-landing-page">GTA VI Landing Page</a></h3>
+      <h3 align="center"><a href="https://github.com/rohan-bhautoo/First-Person-Shooter">First Person Shooter</a></h3>
       <p align="center">
-        <a href="https://github.com/rohan-bhautoo/gta-vi-landing-page">
-          <img src="images/GTA%206.png" width="100%" alt="GTA VI Landing Page"/>
-        </a>
+        <a href="https://github.com/rohan-bhautoo/First-Person-Shooter"><img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9" width="100%" alt="First Person Shooter"/></a>
       </p>
-      <p align="center">
-        Cinematic fan-made landing page with scroll-driven video playback, mask reveal animations, parallax character profiles, and horizontal location exploration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-      <p align="center"><a href="https://gta-vi-landing-page-1.vercel.app/">Live Demo</a></p>
+      <p align="center">Timed target range in Unreal Engine 5.4. Destroy every target before the clock runs out. Targets shatter on impact using Chaos fracture; bullets use sphere-collision hit detection, leave impact holes and flash a light on fire.</p>
     </td>
   </tr>
 </table>
@@ -82,191 +66,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/AutoRental-old">AutoSales</a></h3>
+      <h3 align="center"><a href="https://github.com/rohan-bhautoo/StackBot">StackBot</a></h3>
       <p align="center">
-        <a href="https://github.com/rohan-bhautoo/AutoRental-old">
-          <img src="images/AutoSales.png" width="100%" alt="AutoSales"/>
-        </a>
+        <a href="https://github.com/rohan-bhautoo/StackBot"><img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239" width="100%" alt="StackBot"/></a>
       </p>
-      <p align="center">
-        Cross-platform car rental and sales mobile app. Browse vehicles, view details, and manage bookings with a clean, intuitive interface.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
+      <p align="center">Click-to-move puzzle toy built on Epic's Stack O Bot assets. Spawn orbs to lure an AI-controlled bot around the map and onto pressure plates that open doors. Niagara footstep dust, MetaSounds footsteps and camera shake on interaction.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/Game-Website-React">Game Library</a></h3>
+      <h3 align="center"><a href="https://github.com/rohan-bhautoo/BlockCrafter">BlockCrafter</a></h3>
       <p align="center">
-        <a href="https://github.com/rohan-bhautoo/Game-Website-React">
-          <img src="images/Game%20Library.png" width="100%" alt="Game Library"/>
-        </a>
+        <a href="https://github.com/rohan-bhautoo/BlockCrafter"><img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/19ddd76c-77f0-4159-b6d9-7d5dec1f0964" width="100%" alt="BlockCrafter"/></a>
       </p>
-      <p align="center">
-        Game discovery platform inspired by RAWG.io. Search, filter by genre and platform, toggle dark/light mode, and browse a responsive game catalog.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Zustand-453F39?style=flat-square"/>
-      </p>
+      <p align="center">Minecraft-style sandbox in Unreal Engine 5. Place and break 8 block types, build freely in Default mode or hold off waves of enemies with a rifle and shotgun in Survival mode. Magma and quicksand hazard blocks, health pickups, main menu and HUD.</p>
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/virtual-boutique">Virtual Boutique</a></h3>
-      <p align="center">
-        <a href="https://github.com/rohan-bhautoo/virtual-boutique">
-          <img src="images/Virtual%20Boutique.png" width="100%" alt="Virtual Boutique"/>
-        </a>
-      </p>
-      <p align="center">
-        Mobile e-commerce application with product browsing, cart management, and a seamless checkout experience.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/FitBudget-Solutions">FitBudget</a></h3>
-      <p align="center">
-        <a href="https://github.com/rohan-bhautoo/FitBudget-Solutions">
-          <img src="images/FitBudget.png" width="100%" alt="FitBudget"/>
-        </a>
-      </p>
-      <p align="center">
-        Cross-platform mobile budgeting app. Track expenses, set savings goals, and visualize your finances with interactive charts.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/SkillBoost-Hub">SkillBoost Hub</a></h3>
-      <p align="center">
-        <a href="https://github.com/rohan-bhautoo/SkillBoost-Hub">
-          <img src="images/SkillBoost%20Hub.png" width="100%" alt="SkillBoost Hub"/>
-        </a>
-      </p>
-      <p align="center">
-        Learning management platform with secure authentication, a dynamic course catalog, and a personalized learning experience.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rohan-bhautoo/Bugatti-Website">Bugatti Website</a></h3>
-      <p align="center">
-        <a href="https://github.com/rohan-bhautoo/Bugatti-Website">
-          <img src="images/Bugatti%20website.png" width="100%" alt="Bugatti Website"/>
-        </a>
-      </p>
-      <p align="center">
-        Automotive single-page application with dynamic content switching, user authentication, and a car catalog backed by MariaDB.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo?tab=repositories"><sub>See all projects &rarr;</sub></a>
-</p>
-
-<p align="center"><img src="svg/divider.svg" width="100%"/></p>
-
-<p align="center">
-  <img src="svg/section-tech.svg" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-<p><sub>Frontend</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-</p>
-
-<p><sub>Backend</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-<p><sub>Mobile</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</p>
-
-<p><sub>Tools</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-</div>
-
-<p align="center"><img src="svg/divider.svg" width="100%"/></p>
-
-<p align="center">
-  <img src="svg/section-activity.svg" width="100%"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=tokyonight&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=default&hide_border=true" width="49%" alt="GitHub Streak"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&hide_border=true&count_private=true&theme=default" width="49%" alt="GitHub Stats"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rohan-bhautoo&theme=tokyo-night&hide_border=true&area=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-bhautoo&theme=minimal&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
-  </picture>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
