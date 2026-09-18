@@ -17,7 +17,7 @@
 
 <div>
   <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
-  <img src="https://github.com/user-attachments/assets/74343f62-0b99-46ed-bb32-d5fe75637f2d" width="100%" alt="Clips from my favourite games">
+  <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/images/Favorite%20Games.gif" width="100%" alt="Clips from my favourite games">
 </div>
 
 <div>
